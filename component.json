@@ -1,0 +1,17 @@
+{
+  "name": "Footer",
+  "version": "1.0.0",
+  "description": "Подвал",
+  "author": "LiquidHub.ru",
+  "type": "snippets",
+  "homepage": "https://github.com/insales-components/footer",
+  "props": {
+    "common": false,
+    "liquid": true
+  },
+  "dependencies": {
+    "menu": "https://github.com/insales-components/menu",
+    "social": "https://github.com/insales-components/social",
+    "cellsio": "https://github.com/insales-components/cellsio"
+  }
+}
